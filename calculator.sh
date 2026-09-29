@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #########################
-Calcolatore di prova
+Calcolatore di prova-test
 #########################
 
 x=a+b
